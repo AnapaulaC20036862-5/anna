@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+     <html>
+         <head>
+
+
+          <meta charset="utf-8">
+             <meta http-equiv="X-UA-Compatible" content="IE=edge">
+             <title></title>
+             <meta name="description" content="">
+             <meta name="viewport" content="width=device-width, initial-scale=1">
+             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+             <link rel='stylesheet' type='text/css' media='screen' href='style.css'>        
+         </head>
+         <body>
+            <main>
+              <title>Pizzas Man</title>
+              <form>
+                 <section>     
+                 <img src="C:\xampp\htdocs\pizzas man\nome.png" alt="title">
+                     <div>
+                      <img src="C:\xampp\htdocs\pizzas man\pizza.png" alt="whatsapp">
+                      <br />
+                      <img src="C:\xampp\htdocs\pizzas man\mini.png" alt="whatsapp">
+                      <br />
+                      <video src="C:\Users\Ana Paula\Downloads\pizza prty.mp4"
+                      controls 
+
+                      width="980px"
+                      justify-content="center">
+                      </video>
+                       <br />
+                      <img src="C:\xampp\htdocs\pizzas man\2.png" alt="whatsapp">
+                      <a href="https://wa.me/55519******?" target="_blank">
+                        <br />
+                      </div>
+               </section>
+              </main>
+            </form>     
+           </main>
+         </body>
+     </html>
